@@ -1,6 +1,7 @@
 
-This is a record to self-learning project of Karina. 
+This is a github repository for my personal use
 
-All resources and data are from Kaggle. 
+So far, part of the projects are related to master degree projects and some self-learning projects in kaggle. 
+A lot is about self-learn and development. 
 
-The main reason of setting up this profile is to consolidate all the knowledge I learnt and keep a record of coding experience. 
+Please read with a loving attitute
